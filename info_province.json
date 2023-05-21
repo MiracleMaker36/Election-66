@@ -1,0 +1,699 @@
+{
+    "total_registered_vote": 52238594,
+    "total_vote_stations": 95137,
+    "province": [
+        {
+            "province_id": "81",
+            "prov_id": "KBI",
+            "province": "กระบี่",
+            "abbre_thai": "กบ",
+            "eng": "KRABI",
+            "total_vote_stations": 587,
+            "total_registered_vote": 357245
+        },
+        {
+            "province_id": "10",
+            "prov_id": "BKK",
+            "province": "กรุงเทพมหานคร",
+            "abbre_thai": "กทม",
+            "eng": "BANGKOK",
+            "total_vote_stations": 6360,
+            "total_registered_vote": 4479155
+        },
+        {
+            "province_id": "71",
+            "prov_id": "KRI",
+            "province": "กาญจนบุรี",
+            "abbre_thai": "กจ",
+            "eng": "KANCHANABURI",
+            "total_vote_stations": 1045,
+            "total_registered_vote": 646081
+        },
+        {
+            "province_id": "46",
+            "prov_id": "KSN",
+            "province": "กาฬสินธุ์",
+            "abbre_thai": "กส",
+            "eng": "KALASIN",
+            "total_vote_stations": 1617,
+            "total_registered_vote": 788214
+        },
+        {
+            "province_id": "62",
+            "prov_id": "KPT",
+            "province": "กำแพงเพชร",
+            "abbre_thai": "กพ",
+            "eng": "KAMPHAENG PHET",
+            "total_vote_stations": 1123,
+            "total_registered_vote": 567999
+        },
+        {
+            "province_id": "40",
+            "prov_id": "KKN",
+            "province": "ขอนแก่น",
+            "abbre_thai": "ขก",
+            "eng": "KHON KAEN",
+            "total_vote_stations": 2679,
+            "total_registered_vote": 1449595
+        },
+        {
+            "province_id": "22",
+            "prov_id": "CTI",
+            "province": "จันทบุรี",
+            "abbre_thai": "จบ",
+            "eng": "CHANTHABURI",
+            "total_vote_stations": 834,
+            "total_registered_vote": 427917
+        },
+        {
+            "province_id": "24",
+            "prov_id": "CCO",
+            "province": "ฉะเชิงเทรา",
+            "abbre_thai": "ฉช",
+            "eng": "CHACHOENGSAO",
+            "total_vote_stations": 973,
+            "total_registered_vote": 576962
+        },
+        {
+            "province_id": "20",
+            "prov_id": "CBI",
+            "province": "ชลบุรี",
+            "abbre_thai": "ชบ",
+            "eng": "CHON BURI",
+            "total_vote_stations": 1439,
+            "total_registered_vote": 1234192
+        },
+        {
+            "province_id": "18",
+            "prov_id": "CNT",
+            "province": "ชัยนาท",
+            "abbre_thai": "ชน",
+            "eng": "CHAI NAT",
+            "total_vote_stations": 505,
+            "total_registered_vote": 262359
+        },
+        {
+            "province_id": "36",
+            "prov_id": "CPM",
+            "province": "ชัยภูมิ",
+            "abbre_thai": "ชย",
+            "eng": "CHAIYAPHUM",
+            "total_vote_stations": 1948,
+            "total_registered_vote": 902888
+        },
+        {
+            "province_id": "86",
+            "prov_id": "CPN",
+            "province": "ชุมพร",
+            "abbre_thai": "ชพ",
+            "eng": "CHUMPHON",
+            "total_vote_stations": 745,
+            "total_registered_vote": 404208
+        },
+        {
+            "province_id": "57",
+            "prov_id": "CRI",
+            "province": "เชียงราย",
+            "abbre_thai": "ชร",
+            "eng": "CHIANG RAI",
+            "total_vote_stations": 1977,
+            "total_registered_vote": 944019
+        },
+        {
+            "province_id": "50",
+            "prov_id": "CMI",
+            "province": "เชียงใหม่",
+            "abbre_thai": "ชม",
+            "eng": "CHIANG MAI",
+            "total_vote_stations": 2615,
+            "total_registered_vote": 1331007
+        },
+        {
+            "province_id": "92",
+            "prov_id": "TRG",
+            "province": "ตรัง",
+            "abbre_thai": "ตง",
+            "eng": "TRANG",
+            "total_vote_stations": 903,
+            "total_registered_vote": 502356
+        },
+        {
+            "province_id": "23",
+            "prov_id": "TRT",
+            "province": "ตราด",
+            "abbre_thai": "ตร",
+            "eng": "TRAT",
+            "total_vote_stations": 314,
+            "total_registered_vote": 175112
+        },
+        {
+            "province_id": "63",
+            "prov_id": "TAK",
+            "province": "ตาก",
+            "abbre_thai": "ตก",
+            "eng": "TAK",
+            "total_vote_stations": 683,
+            "total_registered_vote": 404274
+        },
+        {
+            "province_id": "26",
+            "prov_id": "NYK",
+            "province": "นครนายก",
+            "abbre_thai": "นย",
+            "eng": "NAKHON NAYOK",
+            "total_vote_stations": 460,
+            "total_registered_vote": 209962
+        },
+        {
+            "province_id": "73",
+            "prov_id": "NPT",
+            "province": "นครปฐม",
+            "abbre_thai": "นฐ",
+            "eng": "NAKHON PATHOM",
+            "total_vote_stations": 1247,
+            "total_registered_vote": 739787
+        },
+        {
+            "province_id": "48",
+            "prov_id": "NPM",
+            "province": "นครพนม",
+            "abbre_thai": "นพ",
+            "eng": "NAKHON PHANOM",
+            "total_vote_stations": 1137,
+            "total_registered_vote": 568353
+        },
+        {
+            "province_id": "30",
+            "prov_id": "NMA",
+            "province": "นครราชสีมา",
+            "abbre_thai": "นม",
+            "eng": "NAKHON RATCHASIMA",
+            "total_vote_stations": 4487,
+            "total_registered_vote": 2120399
+        },
+        {
+            "province_id": "80",
+            "prov_id": "NST",
+            "province": "นครศรีธรรมราช",
+            "abbre_thai": "นศ",
+            "eng": "NAKHON SI THAMMARAT",
+            "total_vote_stations": 2151,
+            "total_registered_vote": 1220778
+        },
+        {
+            "province_id": "60",
+            "prov_id": "NSN",
+            "province": "นครสวรรค์",
+            "abbre_thai": "นว",
+            "eng": "NAKHON SAWAN",
+            "total_vote_stations": 1630,
+            "total_registered_vote": 839746
+        },
+        {
+            "province_id": "12",
+            "prov_id": "NBI",
+            "province": "นนทบุรี",
+            "abbre_thai": "นบ",
+            "eng": "NONTHABURI",
+            "total_vote_stations": 1308,
+            "total_registered_vote": 1056364
+        },
+        {
+            "province_id": "96",
+            "prov_id": "NWT",
+            "province": "นราธิวาส",
+            "abbre_thai": "นธ",
+            "eng": "NARATHIWAT",
+            "total_vote_stations": 1000,
+            "total_registered_vote": 576512
+        },
+        {
+            "province_id": "55",
+            "prov_id": "NAN",
+            "province": "น่าน",
+            "abbre_thai": "นน",
+            "eng": "NAN",
+            "total_vote_stations": 929,
+            "total_registered_vote": 389371
+        },
+        {
+            "province_id": "38",
+            "prov_id": "BKN",
+            "province": "บึงกาฬ",
+            "abbre_thai": "บก",
+            "eng": "BUENG KAN",
+            "total_vote_stations": 652,
+            "total_registered_vote": 327745
+        },
+        {
+            "province_id": "31",
+            "prov_id": "BRM",
+            "province": "บุรีรัมย์",
+            "abbre_thai": "บร",
+            "eng": "BURI RAM",
+            "total_vote_stations": 2568,
+            "total_registered_vote": 1250148
+        },
+        {
+            "province_id": "13",
+            "prov_id": "PTE",
+            "province": "ปทุมธานี",
+            "abbre_thai": "ปท",
+            "eng": "PATHUM THANI",
+            "total_vote_stations": 1422,
+            "total_registered_vote": 960641
+        },
+        {
+            "province_id": "77",
+            "prov_id": "PKN",
+            "province": "ประจวบคีรีขันธ์",
+            "abbre_thai": "ปข",
+            "eng": "PRACHUAP KHIRI KHAN",
+            "total_vote_stations": 632,
+            "total_registered_vote": 430869
+        },
+        {
+            "province_id": "25",
+            "prov_id": "PRI",
+            "province": "ปราจีนบุรี",
+            "abbre_thai": "ปจ",
+            "eng": "PRACHIN BURI",
+            "total_vote_stations": 765,
+            "total_registered_vote": 394789
+        },
+        {
+            "province_id": "94",
+            "prov_id": "PTN",
+            "province": "ปัตตานี",
+            "abbre_thai": "ปน",
+            "eng": "PATTANI",
+            "total_vote_stations": 826,
+            "total_registered_vote": 510073
+        },
+        {
+            "province_id": "14",
+            "prov_id": "AYA",
+            "province": "พระนครศรีอยุธยา",
+            "abbre_thai": "อย",
+            "eng": "PHRA NAKHON SI AYUTTHAYA",
+            "total_vote_stations": 1060,
+            "total_registered_vote": 664431
+        },
+        {
+            "province_id": "56",
+            "prov_id": "PYO",
+            "province": "พะเยา",
+            "abbre_thai": "พย",
+            "eng": "PHAYAO",
+            "total_vote_stations": 862,
+            "total_registered_vote": 386807
+        },
+        {
+            "province_id": "82",
+            "prov_id": "PNA",
+            "province": "พังงา",
+            "abbre_thai": "พง",
+            "eng": "PHANGNGA",
+            "total_vote_stations": 356,
+            "total_registered_vote": 206837
+        },
+        {
+            "province_id": "93",
+            "prov_id": "PLG",
+            "province": "พัทลุง",
+            "abbre_thai": "พท",
+            "eng": "PHATTHALUNG",
+            "total_vote_stations": 773,
+            "total_registered_vote": 417458
+        },
+        {
+            "province_id": "66",
+            "prov_id": "PCT",
+            "province": "พิจิตร",
+            "abbre_thai": "พจ",
+            "eng": "PHICHIT",
+            "total_vote_stations": 1008,
+            "total_registered_vote": 428861
+        },
+        {
+            "province_id": "65",
+            "prov_id": "PLK",
+            "province": "พิษณุโลก",
+            "abbre_thai": "พล",
+            "eng": "PHITSANULOK",
+            "total_vote_stations": 1277,
+            "total_registered_vote": 686536
+        },
+        {
+            "province_id": "76",
+            "prov_id": "PBI",
+            "province": "เพชรบุรี",
+            "abbre_thai": "พบ",
+            "eng": "PHETCHABURI",
+            "total_vote_stations": 703,
+            "total_registered_vote": 389060
+        },
+        {
+            "province_id": "67",
+            "prov_id": "PNB",
+            "province": "เพชรบูรณ์",
+            "abbre_thai": "พช",
+            "eng": "PHETCHABUN",
+            "total_vote_stations": 1647,
+            "total_registered_vote": 784388
+        },
+        {
+            "province_id": "54",
+            "prov_id": "PRE",
+            "province": "แพร่",
+            "abbre_thai": "พร",
+            "eng": "PHRAE",
+            "total_vote_stations": 774,
+            "total_registered_vote": 366015
+        },
+        {
+            "province_id": "83",
+            "prov_id": "PKT",
+            "province": "ภูเก็ต",
+            "abbre_thai": "ภก",
+            "eng": "PHUKET",
+            "total_vote_stations": 380,
+            "total_registered_vote": 313475
+        },
+        {
+            "province_id": "44",
+            "prov_id": "MKM",
+            "province": "มหาสารคาม",
+            "abbre_thai": "มค",
+            "eng": "MAHA SARAKHAM",
+            "total_vote_stations": 1783,
+            "total_registered_vote": 774191
+        },
+        {
+            "province_id": "49",
+            "prov_id": "MDH",
+            "province": "มุกดาหาร",
+            "abbre_thai": "มห",
+            "eng": "MUKDAHAN",
+            "total_vote_stations": 596,
+            "total_registered_vote": 276802
+        },
+        {
+            "province_id": "58",
+            "prov_id": "MSN",
+            "province": "แม่ฮ่องสอน",
+            "abbre_thai": "มส",
+            "eng": "MAE HONG SON",
+            "total_vote_stations": 463,
+            "total_registered_vote": 180959
+        },
+        {
+            "province_id": "35",
+            "prov_id": "YST",
+            "province": "ยโสธร",
+            "abbre_thai": "ยส",
+            "eng": "YASOTHON",
+            "total_vote_stations": 905,
+            "total_registered_vote": 432872
+        },
+        {
+            "province_id": "95",
+            "prov_id": "YLA",
+            "province": "ยะลา",
+            "abbre_thai": "ยล",
+            "eng": "YALA",
+            "total_vote_stations": 596,
+            "total_registered_vote": 382271
+        },
+        {
+            "province_id": "45",
+            "prov_id": "RET",
+            "province": "ร้อยเอ็ด",
+            "abbre_thai": "รอ",
+            "eng": "ROI ET",
+            "total_vote_stations": 2525,
+            "total_registered_vote": 1054706
+        },
+        {
+            "province_id": "85",
+            "prov_id": "RNG",
+            "province": "ระนอง",
+            "abbre_thai": "รน",
+            "eng": "RANONG",
+            "total_vote_stations": 209,
+            "total_registered_vote": 140024
+        },
+        {
+            "province_id": "21",
+            "prov_id": "RYG",
+            "province": "ระยอง",
+            "abbre_thai": "รย",
+            "eng": "RAYONG",
+            "total_vote_stations": 803,
+            "total_registered_vote": 587660
+        },
+        {
+            "province_id": "70",
+            "prov_id": "RBR",
+            "province": "ราชบุรี",
+            "abbre_thai": "รบ",
+            "eng": "RATCHABURI",
+            "total_vote_stations": 1111,
+            "total_registered_vote": 682463
+        },
+        {
+            "province_id": "16",
+            "prov_id": "LRI",
+            "province": "ลพบุรี",
+            "abbre_thai": "ลบ",
+            "eng": "LOP BURI",
+            "total_vote_stations": 1033,
+            "total_registered_vote": 598151
+        },
+        {
+            "province_id": "52",
+            "prov_id": "LPG",
+            "province": "ลำปาง",
+            "abbre_thai": "ลป",
+            "eng": "LAMPANG",
+            "total_vote_stations": 1187,
+            "total_registered_vote": 612603
+        },
+        {
+            "province_id": "51",
+            "prov_id": "LPN",
+            "province": "ลำพูน",
+            "abbre_thai": "ลพ",
+            "eng": "LAMPHUN",
+            "total_vote_stations": 687,
+            "total_registered_vote": 333846
+        },
+        {
+            "province_id": "42",
+            "prov_id": "LEI",
+            "province": "เลย",
+            "abbre_thai": "ลย",
+            "eng": "LOEI",
+            "total_vote_stations": 1016,
+            "total_registered_vote": 504875
+        },
+        {
+            "province_id": "33",
+            "prov_id": "SSK",
+            "province": "ศรีสะเกษ",
+            "abbre_thai": "ศก",
+            "eng": "SI SA KET",
+            "total_vote_stations": 2750,
+            "total_registered_vote": 1162288
+        },
+        {
+            "province_id": "47",
+            "prov_id": "SNK",
+            "province": "สกลนคร",
+            "abbre_thai": "สน",
+            "eng": "SAKON NAKHON",
+            "total_vote_stations": 1679,
+            "total_registered_vote": 909763
+        },
+        {
+            "province_id": "90",
+            "prov_id": "SKA",
+            "province": "สงขลา",
+            "abbre_thai": "สข",
+            "eng": "SONGKHLA",
+            "total_vote_stations": 1748,
+            "total_registered_vote": 1098389
+        },
+        {
+            "province_id": "91",
+            "prov_id": "STN",
+            "province": "สตูล",
+            "abbre_thai": "สต",
+            "eng": "SATUN",
+            "total_vote_stations": 367,
+            "total_registered_vote": 240492
+        },
+        {
+            "province_id": "11",
+            "prov_id": "SPK",
+            "province": "สมุทรปราการ",
+            "abbre_thai": "สป",
+            "eng": "SAMUT PRAKAN",
+            "total_vote_stations": 1438,
+            "total_registered_vote": 1086284
+        },
+        {
+            "province_id": "75",
+            "prov_id": "SKM",
+            "province": "สมุทรสงคราม",
+            "abbre_thai": "สส",
+            "eng": "SAMUT SONGKHRAM",
+            "total_vote_stations": 257,
+            "total_registered_vote": 156558
+        },
+        {
+            "province_id": "74",
+            "prov_id": "SKN",
+            "province": "สมุทรสาคร",
+            "abbre_thai": "สค",
+            "eng": "SAMUT SAKHON",
+            "total_vote_stations": 615,
+            "total_registered_vote": 446390
+        },
+        {
+            "province_id": "27",
+            "prov_id": "SKW",
+            "province": "สระแก้ว",
+            "abbre_thai": "สก",
+            "eng": "SA KAEO",
+            "total_vote_stations": 800,
+            "total_registered_vote": 437612
+        },
+        {
+            "province_id": "19",
+            "prov_id": "SRI",
+            "province": "สระบุรี",
+            "abbre_thai": "สบ",
+            "eng": "SARABURI",
+            "total_vote_stations": 759,
+            "total_registered_vote": 509018
+        },
+        {
+            "province_id": "17",
+            "prov_id": "SBR",
+            "province": "สิงห์บุรี",
+            "abbre_thai": "สห",
+            "eng": "SING BURI",
+            "total_vote_stations": 213,
+            "total_registered_vote": 168055
+        },
+        {
+            "province_id": "64",
+            "prov_id": "STI",
+            "province": "สุโขทัย",
+            "abbre_thai": "สท",
+            "eng": "SUKHOTHAI",
+            "total_vote_stations": 980,
+            "total_registered_vote": 479558
+        },
+        {
+            "province_id": "72",
+            "prov_id": "SPB",
+            "province": "สุพรรณบุรี",
+            "abbre_thai": "สพ",
+            "eng": "SUPHAN BURI",
+            "total_vote_stations": 1236,
+            "total_registered_vote": 675285
+        },
+        {
+            "province_id": "84",
+            "prov_id": "SNI",
+            "province": "สุราษฎร์ธานี",
+            "abbre_thai": "สฎ",
+            "eng": "SURAT THANI",
+            "total_vote_stations": 1434,
+            "total_registered_vote": 830330
+        },
+        {
+            "province_id": "32",
+            "prov_id": "SRN",
+            "province": "สุรินทร์",
+            "abbre_thai": "สร",
+            "eng": "SURIN",
+            "total_vote_stations": 2189,
+            "total_registered_vote": 1090337
+        },
+        {
+            "province_id": "43",
+            "prov_id": "NKI",
+            "province": "หนองคาย",
+            "abbre_thai": "นค",
+            "eng": "NONG KHAI",
+            "total_vote_stations": 799,
+            "total_registered_vote": 410200
+        },
+        {
+            "province_id": "39",
+            "prov_id": "NBP",
+            "province": "หนองบัวลำภู",
+            "abbre_thai": "นภ",
+            "eng": "NONG BUA LAM PHU",
+            "total_vote_stations": 797,
+            "total_registered_vote": 405513
+        },
+        {
+            "province_id": "15",
+            "prov_id": "ATG",
+            "province": "อ่างทอง",
+            "abbre_thai": "อท",
+            "eng": "ANG THONG",
+            "total_vote_stations": 492,
+            "total_registered_vote": 224656
+        },
+        {
+            "province_id": "37",
+            "prov_id": "ACR",
+            "province": "อำนาจเจริญ",
+            "abbre_thai": "อจ",
+            "eng": "AMNAT CHAROEN",
+            "total_vote_stations": 641,
+            "total_registered_vote": 301354
+        },
+        {
+            "province_id": "41",
+            "prov_id": "UDN",
+            "province": "อุดรธานี",
+            "abbre_thai": "อด",
+            "eng": "UDON THANI",
+            "total_vote_stations": 2252,
+            "total_registered_vote": 1248824
+        },
+        {
+            "province_id": "53",
+            "prov_id": "UTT",
+            "province": "อุตรดิตถ์",
+            "abbre_thai": "อต",
+            "eng": "UTTARADIT",
+            "total_vote_stations": 732,
+            "total_registered_vote": 368323
+        },
+        {
+            "province_id": "61",
+            "prov_id": "UTI",
+            "province": "อุทัยธานี",
+            "abbre_thai": "อน",
+            "eng": "UTHAI THANI",
+            "total_vote_stations": 617,
+            "total_registered_vote": 260983
+        },
+        {
+            "province_id": "34",
+            "prov_id": "UBN",
+            "province": "อุบลราชธานี",
+            "abbre_thai": "อบ",
+            "eng": "UBON RATCHATHANI",
+            "total_vote_stations": 3027,
+            "total_registered_vote": 1473971
+        }
+    ]
+}

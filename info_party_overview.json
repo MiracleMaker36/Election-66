@@ -1,0 +1,562 @@
+[
+    {
+        "id": "750",
+        "party_no": "15",
+        "name": "กรีน",
+        "color": "#69c80a",
+        "abbr": "กร",
+        "logo_url": "https://cdn.ectreport.com/images/logos/กรีน.png"
+    },
+    {
+        "id": "726",
+        "party_no": "31",
+        "name": "ก้าวไกล",
+        "color": "#f47526",
+        "abbr": "ก.ก.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ก้าวไกล.png"
+    },
+    {
+        "id": "714",
+        "party_no": "6",
+        "name": "ครูไทยเพื่อประชาชน",
+        "color": "#175a38",
+        "abbr": "รทบ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ครูไทยเพื่อประชาชน.png"
+    },
+    {
+        "id": "742",
+        "party_no": "61",
+        "name": "คลองไทย",
+        "color": "#0eafeb",
+        "abbr": "คล.ท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/คลองไทย.png"
+    },
+    {
+        "id": "703",
+        "party_no": "60",
+        "name": "ความหวังใหม่",
+        "color": "#e6b750",
+        "abbr": "ควม.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ความหวังใหม่.png"
+    },
+    {
+        "id": "725",
+        "party_no": "59",
+        "name": "ช่วยชาติ",
+        "color": "#8b85ad",
+        "abbr": "พชช.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ช่วยชาติ.png"
+    },
+    {
+        "id": "707",
+        "party_no": "18",
+        "name": "ชาติไทยพัฒนา",
+        "color": "#ff72a8",
+        "abbr": "ชทพ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ชาติไทยพัฒนา.png"
+    },
+    {
+        "id": "706",
+        "party_no": "14",
+        "name": "ชาติพัฒนากล้า",
+        "color": "#233e8a",
+        "abbr": "ชพก.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ชาติพัฒนากล้า.png"
+    },
+    {
+        "id": "783",
+        "party_no": "52",
+        "name": "ชาติรุ่งเรือง",
+        "color": "#9cb4c9",
+        "abbr": "ชรร.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ชาติรุ่งเรือง.png"
+    },
+    {
+        "id": "717",
+        "party_no": "46",
+        "name": "ถิ่นกาขาวชาววิไล",
+        "color": "#fb04fb",
+        "abbr": "ถกชว",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ถิ่นกาขาวชาววิไล.png"
+    },
+    {
+        "id": "776",
+        "party_no": "4",
+        "name": "ท้องที่ไทย",
+        "color": "#9c9084",
+        "abbr": "ท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ท้องที่ไทย.png"
+    },
+    {
+        "id": "727",
+        "party_no": "30",
+        "name": "ทางเลือกใหม่",
+        "color": "#026aec",
+        "abbr": "ทลม.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ทางเลือกใหม่.png"
+    },
+    {
+        "id": "780",
+        "party_no": "55",
+        "name": "ไทยก้าวหน้า",
+        "color": "#b9bee3",
+        "abbr": "ทกน.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยก้าวหน้า.png"
+    },
+    {
+        "id": "771",
+        "party_no": "13",
+        "name": "ไทยชนะ",
+        "color": "#ceb88a",
+        "abbr": "ทช",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยชนะ.png"
+    },
+    {
+        "id": "732",
+        "party_no": "41",
+        "name": "ไทยธรรม",
+        "color": "#ec5c2c",
+        "abbr": "ทธม.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยธรรม.png"
+    },
+    {
+        "id": "775",
+        "party_no": "33",
+        "name": "ไทยเป็นหนึ่ง",
+        "color": "#7e529d",
+        "abbr": "ทปน",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยเป็นหนึ่ง.png"
+    },
+    {
+        "id": "736",
+        "party_no": "28",
+        "name": "ไทยพร้อม",
+        "color": "#b7f2a5",
+        "abbr": "พทพ",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยพร้อม.png"
+    },
+    {
+        "id": "769",
+        "party_no": "21",
+        "name": "ไทยภักดี",
+        "color": "#CBBA01",
+        "abbr": "ทภด.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยภักดี.png"
+    },
+    {
+        "id": "758",
+        "party_no": "12",
+        "name": "ไทยรวมไทย",
+        "color": "#8c8dd2",
+        "abbr": "ทรวท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยรวมไทย.png"
+    },
+    {
+        "id": "733",
+        "party_no": "42",
+        "name": "ไทยศรีวิไลย์",
+        "color": "#a0afba",
+        "abbr": "ทศล.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยศรีวิไลย์.png"
+    },
+    {
+        "id": "765",
+        "party_no": "67",
+        "name": "ไทยสมาร์ท",
+        "color": "#98dfb3",
+        "abbr": "ทสม",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยสมาร์ท.png"
+    },
+    {
+        "id": "762",
+        "party_no": "32",
+        "name": "ไทยสร้างไทย",
+        "color": "#003dff",
+        "abbr": "ทสท",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ไทยสร้างไทย.png"
+    },
+    {
+        "id": "770",
+        "party_no": "45",
+        "name": "แนวทางใหม่",
+        "color": "#b7bfc7",
+        "abbr": "นทม",
+        "logo_url": "https://cdn.ectreport.com/images/logos/แนวทางใหม่.png"
+    },
+    {
+        "id": "702",
+        "party_no": "63",
+        "name": "ประชากรไทย",
+        "color": "#0f41ce",
+        "abbr": "ปชท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ประชากรไทย.png"
+    },
+    {
+        "id": "740",
+        "party_no": "11",
+        "name": "ประชาชาติ",
+        "color": "#a35f26",
+        "abbr": "ปช.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ประชาชาติ.png"
+    },
+    {
+        "id": "749",
+        "party_no": "56",
+        "name": "ประชาไทย",
+        "color": "#1d1376",
+        "abbr": "ปรชท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ประชาไทย.png"
+    },
+    {
+        "id": "712",
+        "party_no": "2",
+        "name": "ประชาธิปไตยใหม่",
+        "color": "#eb4138",
+        "abbr": "ปธม.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ประชาธิปไตยใหม่.png"
+    },
+    {
+        "id": "701",
+        "party_no": "26",
+        "name": "ประชาธิปัตย์",
+        "color": "#06aff3",
+        "abbr": "ปชป.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ประชาธิปัตย์.png"
+    },
+    {
+        "id": "728",
+        "party_no": "40",
+        "name": "ประชาภิวัฒน์",
+        "color": "#076350",
+        "abbr": "ปชภ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ประชาภิวัฒน์.png"
+    },
+    {
+        "id": "711",
+        "party_no": "",
+        "name": "ประชาสามัคคี",
+        "color": "#ecb55e",
+        "abbr": "ปส.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ประชาสามัคคี.png"
+    },
+    {
+        "id": "747",
+        "party_no": "3",
+        "name": "เป็นธรรม",
+        "color": "#b5a89b",
+        "abbr": "ปธ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เป็นธรรม.png"
+    },
+    {
+        "id": "786",
+        "party_no": "20",
+        "name": "เปลี่ยน",
+        "color": "#cc898a",
+        "abbr": "ป.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เปลี่ยน.png"
+    },
+    {
+        "id": "777",
+        "party_no": "65",
+        "name": "เปลี่ยนอนาคต",
+        "color": "#dead46",
+        "abbr": "พปอ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เปลี่ยนอนาคต.png"
+    },
+    {
+        "id": "741",
+        "party_no": "34",
+        "name": "แผ่นดินธรรม",
+        "color": "#852e1c",
+        "abbr": "ผธ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/แผ่นดินธรรม.png"
+    },
+    {
+        "id": "781",
+        "party_no": "9",
+        "name": "พลัง",
+        "color": "#8e8fc7",
+        "abbr": "พ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลัง.png"
+    },
+    {
+        "id": "724",
+        "party_no": "62",
+        "name": "พลังไทยรักชาติ",
+        "color": "#54c04c",
+        "abbr": "พทรช.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังไทยรักชาติ.png"
+    },
+    {
+        "id": "731",
+        "party_no": "27",
+        "name": "พลังธรรมใหม่",
+        "color": "#e9b54a",
+        "abbr": "พธม.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังธรรมใหม่.png"
+    },
+    {
+        "id": "713",
+        "party_no": "",
+        "name": "พลังบูรพา",
+        "color": "#4696d6",
+        "abbr": "พบ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังบูรพา.png"
+    },
+    {
+        "id": "722",
+        "party_no": "66",
+        "name": "พลังประชาธิปไตย",
+        "color": "#c4403a",
+        "abbr": "พ.ป.ต.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังประชาธิปไตย.png"
+    },
+    {
+        "id": "743",
+        "party_no": "37",
+        "name": "พลังประชารัฐ",
+        "color": "#1f68dd",
+        "abbr": "พปชร.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังประชารัฐ.png"
+    },
+    {
+        "id": "737",
+        "party_no": "50",
+        "name": "พลังปวงชนไทย",
+        "color": "#181f97",
+        "abbr": "พลท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังปวงชนไทย.png"
+    },
+    {
+        "id": "748",
+        "party_no": "57",
+        "name": "พลังเพื่อไทย",
+        "color": "#8384aa",
+        "abbr": "พล.พท",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังเพื่อไทย.png"
+    },
+    {
+        "id": "767",
+        "party_no": "16",
+        "name": "พลังสยาม",
+        "color": "#69330a",
+        "abbr": "พส.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังสยาม.png"
+    },
+    {
+        "id": "715",
+        "party_no": "43",
+        "name": "พลังสหกรณ์",
+        "color": "#395a3d",
+        "abbr": "พ.พส.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังสหกรณ์.png"
+    },
+    {
+        "id": "745",
+        "party_no": "53",
+        "name": "พลังสังคม",
+        "color": "#c67328",
+        "abbr": "พ.พ.ส.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังสังคม.png"
+    },
+    {
+        "id": "761",
+        "party_no": "5",
+        "name": "พลังสังคมใหม่",
+        "color": "#eabcc3",
+        "abbr": "พ.ส.ม.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/พลังสังคมใหม่.png"
+    },
+    {
+        "id": "721",
+        "party_no": "24",
+        "name": "เพื่อชาติ",
+        "color": "#6cb0a8",
+        "abbr": "พ.พ.ช.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เพื่อชาติ.png"
+    },
+    {
+        "id": "738",
+        "party_no": "36",
+        "name": "เพื่อชาติไทย",
+        "color": "#724a34",
+        "abbr": "พ.ชต.ท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เพื่อชาติไทย.png"
+    },
+    {
+        "id": "705",
+        "party_no": "29",
+        "name": "เพื่อไทย",
+        "color": "#da3731",
+        "abbr": "พท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เพื่อไทย.png"
+    },
+    {
+        "id": "773",
+        "party_no": "38",
+        "name": "เพื่อไทรวมพลัง",
+        "color": "#a7b0ed",
+        "abbr": "พทล.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เพื่อไทรวมพลัง.png"
+    },
+    {
+        "id": "755",
+        "party_no": "48",
+        "name": "เพื่ออนาคตไทย",
+        "color": "#c591a9",
+        "abbr": "พอท",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เพื่ออนาคตไทย.png"
+    },
+    {
+        "id": "723",
+        "party_no": "54",
+        "name": "ภราดรภาพ",
+        "color": "#0c5a38",
+        "abbr": "ภดภ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ภราดรภาพ.png"
+    },
+    {
+        "id": "752",
+        "party_no": "19",
+        "name": "ภาคีเครือข่ายไทย",
+        "color": "#f36e2d",
+        "abbr": "ภคท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ภาคีเครือข่ายไทย.png"
+    },
+    {
+        "id": "709",
+        "party_no": "7",
+        "name": "ภูมิใจไทย",
+        "color": "#0c149c",
+        "abbr": "ภท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ภูมิใจไทย.png"
+    },
+    {
+        "id": "764",
+        "party_no": "39",
+        "name": "มิติใหม่",
+        "color": "#abc29d",
+        "abbr": "มต.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/มิติใหม่.png"
+    },
+    {
+        "id": "784",
+        "party_no": "23",
+        "name": "รวมใจไทย",
+        "color": "#eec49a",
+        "abbr": "ร.จ.ท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/รวมใจไทย.png"
+    },
+    {
+        "id": "763",
+        "party_no": "22",
+        "name": "รวมไทยสร้างชาติ",
+        "color": "#aa2d38",
+        "abbr": "รทสช.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/รวมไทยสร้างชาติ.png"
+    },
+    {
+        "id": "739",
+        "party_no": "47",
+        "name": "รวมแผ่นดิน",
+        "color": "#d8df96",
+        "abbr": "รผด.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/รวมแผ่นดิน.png"
+    },
+    {
+        "id": "734",
+        "party_no": "35",
+        "name": "รวมพลัง",
+        "color": "#5a1b80",
+        "abbr": "รพ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/รวมพลัง.png"
+    },
+    {
+        "id": "720",
+        "party_no": "",
+        "name": "รักษ์ธรรม",
+        "color": "#dbdc9c",
+        "abbr": "ร.ธ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/รักษ์ธรรม.png"
+    },
+    {
+        "id": "718",
+        "party_no": "49",
+        "name": "รักษ์ผืนป่าประเทศไทย",
+        "color": "#8dbf44",
+        "abbr": "รป.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/รักษ์ผืนป่าประเทศไทย.png"
+    },
+    {
+        "id": "774",
+        "party_no": "44",
+        "name": "ราษฎร์วิถี",
+        "color": "#e6d7b8",
+        "abbr": "รวถ",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ราษฎร์วิถี.png"
+    },
+    {
+        "id": "779",
+        "party_no": "8",
+        "name": "แรงงานสร้างชาติ",
+        "color": "#633e7c",
+        "abbr": "รสช.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/แรงงานสร้างชาติ.png"
+    },
+    {
+        "id": "710",
+        "party_no": "58",
+        "name": "สังคมประชาธิปไตยไทย",
+        "color": "#d32524",
+        "abbr": "ส.ป.ท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/สังคมประชาธิปไตยไทย.png"
+    },
+    {
+        "id": "751",
+        "party_no": "51",
+        "name": "สามัญชน",
+        "color": "#3c3c3c",
+        "abbr": "พ.สมช",
+        "logo_url": "https://cdn.ectreport.com/images/logos/สามัญชน.png"
+    },
+    {
+        "id": "729",
+        "party_no": "64",
+        "name": "เส้นด้าย",
+        "color": "#7c8480",
+        "abbr": "สด.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เส้นด้าย.png"
+    },
+    {
+        "id": "768",
+        "party_no": "17",
+        "name": "เสมอภาค",
+        "color": "#ca146b",
+        "abbr": "สมภ.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เสมอภาค.png"
+    },
+    {
+        "id": "719",
+        "party_no": "25",
+        "name": "เสรีรวมไทย",
+        "color": "#b49e31",
+        "abbr": "สร.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/เสรีรวมไทย.png"
+    },
+    {
+        "id": "778",
+        "party_no": "1",
+        "name": "ใหม่",
+        "color": "#8494b4",
+        "abbr": "ม",
+        "logo_url": "https://cdn.ectreport.com/images/logos/ใหม่.png"
+    },
+    {
+        "id": "708",
+        "party_no": "10",
+        "name": "อนาคตไทย",
+        "color": "#ad1b34",
+        "abbr": "อท.",
+        "logo_url": "https://cdn.ectreport.com/images/logos/อนาคตไทย.png"
+    }
+]
